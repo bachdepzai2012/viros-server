@@ -28,6 +28,7 @@ modules:
         - rustup
         - zsh
         - btrfsmaintenance
+        - neovim
         - clevis
         - clevis-luks
         - clevis-dracut

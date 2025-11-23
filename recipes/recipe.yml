@@ -34,4 +34,8 @@ modules:
         - clevis-dracut
         - clevis-udisks2
         - clevis-systemd
+    group-install:
+      with-optional: false
+      packages:
+        - c-development
   - type: signing # this sets up the proper policy & signing files for signed images to work fully

